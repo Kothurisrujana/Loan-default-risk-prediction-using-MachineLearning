@@ -72,7 +72,7 @@ Each row in the dataset represents a loan record.
 ---
 
 ## ✅ Results
-- Achieved an accuracy of around **8%** using ensemble learning.  
+- Achieved an accuracy of around **84%** using ensemble learning.  
 - The model can be used to predict loan repayment outcomes effectively.
 
 ---
